@@ -1,6 +1,6 @@
 import { SortOption, IdeaCategory, ImpactLevel, EffortLevel, ProgressStatus, AICoachingPromptType } from './types';
 
-export const GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-04-17";
+export const GEMINI_MODEL_NAME = "gemini-2.5-flash";
 export const IMAGEN_MODEL_NAME = "imagen-3.0-generate-002";
 
 
