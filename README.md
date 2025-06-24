@@ -44,7 +44,7 @@
     *   Tailwind CSS (스타일링)
 *   **AI**:
     *   Google Gemini API (`@google/genai`) - 텍스트 기반 아이디어 생성 및 코칭, 이미지 생성
-        *   Text Model: `gemini-2.5-flash-preview-04-17`
+        *   Text Model: `gemini-2.5`
         *   Image Model: `imagen-3.0-generate-002`
 *   **모듈 로딩**:
     *   ESM (via `esm.sh` for CDN imports) - 별도의 빌드 과정 없이 `index.html`에서 직접 모듈 사용
