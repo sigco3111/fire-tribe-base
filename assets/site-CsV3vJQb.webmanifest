@@ -1,0 +1,18 @@
+{
+    "name": "파이어족 베이스 (FIRE Tribe Base)",
+    "short_name": "파이어족",
+    "description": "Financial Independence, Retire Early (FIRE) 달성을 위한 아이디어 관리 플랫폼",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#1e293b",
+    "background_color": "#0f172a",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "orientation": "portrait-primary"
+} 
