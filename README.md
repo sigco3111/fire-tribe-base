@@ -2,7 +2,7 @@
 
 **파이어족을 위한 맞춤형 아이디어 발상 및 관리 플랫폼. 재정적 목표 달성을 위한 수입 증대, 지출 감소, 투자 아이디어 등을 체계적으로 기록하고 발전시킬 수 있도록 돕습니다.**
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+**👉 라이브 데모**: [https://sigco3111.github.io/fire-tribe-base/](https://sigco3111.github.io/fire-tribe-base/) — 브라우저에서 바로 실행
 
 ## 🌟 주요 기능
 
